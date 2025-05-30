@@ -115,7 +115,7 @@ z=w⋅x+b
 
 Output: probability between 0 and 1.
 
-If probability ≥ threshold (default 0.5), classify as class 1; otherwise, class 0.
+If probability ≥ threshold (default 0.5), classify as class 1; otherwise, class 0
 
 
 
