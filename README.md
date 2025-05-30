@@ -106,3 +106,17 @@ output:
 Precision: 0.9726027397260274
 Recall: 1.0
 
+
+7. Explanation of Sigmoid Function:
+
+   The sigmoid function is used in logistic regression to map linear output to probability:
+σ(z)= 1/1+e^-z
+z=w⋅x+b
+
+Output: probability between 0 and 1.
+
+If probability ≥ threshold (default 0.5), classify as class 1; otherwise, class 0.
+
+
+
+
